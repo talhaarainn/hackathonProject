@@ -1,8 +1,7 @@
 import React from 'react'
-import {FaFacebook, FaGithub} from 'react-icons/fa'
+import {FaFacebook,} from 'react-icons/fa'
 import { RxInstagramLogo } from "react-icons/rx";
 import {FaLinkedin } from 'react-icons/fa'
-import Link from "next/link"
 
 function Footer() {
   return (
