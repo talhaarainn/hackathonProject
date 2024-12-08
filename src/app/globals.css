@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.headingNav {
+  background-color: #7E33E0;
+  width:auto;
+  height: 44px;
+}
